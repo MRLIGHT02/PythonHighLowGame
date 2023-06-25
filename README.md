@@ -1,3 +1,5 @@
 # PythonHighLowGame
 
-This game is based on Guessing the number
+This game is based on Guess....
+This game show on angela Yu course
+
