@@ -30,9 +30,9 @@ while isUserTrue:
         b_account = random.choice(data)
     print(logo)
     # print(random_formate())
-    print(f"A compare {random_formate(a_account)}")
+    print(f"A compare : {random_formate(a_account)}")
     print(vs)
-    print(f"B compare {random_formate(b_account)}")
+    print(f"B compare : {random_formate(b_account)}")
 
     user = input("Who has more follower 'A' or 'B'").lower()
     os.system('clear')
